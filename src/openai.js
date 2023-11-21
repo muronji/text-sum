@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiKey = "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";
+const apiKey = "your api key";
 
 async function summarizeText(inputText) {
   let data = JSON.stringify({
